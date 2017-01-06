@@ -1,2 +1,4 @@
 # hello-world
-An ordinary repository
+Hello, world.
+
+Even though you are not perfect, I still love you.
